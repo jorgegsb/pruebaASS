@@ -1,10 +1,10 @@
 import Board from "./board.js";
 import Knight from "./knight.js";
 import Pawn from "./pawn.js";
-import Bishop from "./Bishop.js";
-import King from "./King.js";
-import Queen from "./Queen.js";
-import Rook from "./Rook.js";
+import Bishop from "./bishop.js";
+import King from "./king.js";
+import Queen from "./queen.js";
+import Rook from "./rook.js";
 import CanvasDrawEngine from "./canvas_draw_engine.js";
 import Player from "./player.js";
 
